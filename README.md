@@ -4,11 +4,6 @@
 [![Colorama](https://img.shields.io/badge/Biblioteca-Colorama-6C63FF?style=for-the-badge)](https://pypi.org/project/colorama/)
 [![Status](https://img.shields.io/badge/Status-Concluído-2E8B57?style=for-the-badge)](#sobre-o-projeto)
 
-Links das badges:
-- Python: https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white
-- Colorama: https://img.shields.io/badge/Biblioteca-Colorama-6C63FF?style=for-the-badge
-- Status: https://img.shields.io/badge/Status-Concluído-2E8B57?style=for-the-badge
-
 ## Sobre o projeto
 
 Programa em Python que simula o monitoramento do nível de água de um reservatório. Cada nível recebe uma mensagem de alerta com uma cor específica, usando a biblioteca Colorama.
